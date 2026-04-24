@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 public class loginPage {
 	
-	 
+	//Without Page factory in POM
 	//Must needed these three things for POM classes
 	/*
 	 * Constructors
